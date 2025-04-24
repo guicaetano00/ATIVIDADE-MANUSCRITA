@@ -29,10 +29,10 @@ if (modeloEscolhido === 1) {
     valorBase = 650000;
     nomeModelo = 'Ferrari';
 } else if (modeloEscolhido === 2) {
-    valorBase = 90000;
+    valorBase = 80000;
     nomeModelo = 'Civic';
 } else if (modeloEscolhido === 3) {
-    valorBase = 80000;
+    valorBase = 1540000;
     nomeModelo = 'Chiron';
 } else if (modeloEscolhido === 4) {
     valorBase = 2000000;
