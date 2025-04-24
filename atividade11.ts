@@ -41,7 +41,7 @@ if (modeloEscolhido === 1) {
     console.log('Modelo inválido.');
 }
 
-console.log('\nFormas de pagamento:');
+console.log('Formas de pagamento:');
 console.log('1 - À vista (15% de desconto)');
 console.log('2 - Parcelado (13% de acréscimo)');
 
